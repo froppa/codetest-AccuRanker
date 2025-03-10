@@ -1,0 +1,7 @@
+.vscode/
+.DS_STORE
+.env
+clickhouse_data/
+venv/
+__pycache__/
+pyvenv.cfg
